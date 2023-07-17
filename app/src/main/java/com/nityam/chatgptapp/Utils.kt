@@ -1,5 +1,5 @@
 package com.nityam.chatgptapp
 
-class Utils {
+object Utils {
     val API_KEY=""
 }
